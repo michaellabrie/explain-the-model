@@ -1,0 +1,28 @@
+# Dark "analysis workstation" theme for The Researcher's Regression Lab.
+[theme]
+base = "dark"
+primaryColor = "#6fa8dc"
+backgroundColor = "#0d1117"
+secondaryBackgroundColor = "#161b22"
+textColor = "#d1d7e0"
+linkColor = "#8fb8de"
+borderColor = "#262c36"
+showWidgetBorder = true
+baseRadius = "0.15rem"
+buttonRadius = "0.15rem"
+baseFontSize = 15
+font = "'IBM Plex Sans':https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap"
+headingFont = "'IBM Plex Sans':https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap"
+codeFont = "'IBM Plex Mono':https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&display=swap"
+headingFontSizes = ["2.05rem", "1.4rem", "1.15rem", "1rem", "0.9rem", "0.85rem"]
+headingFontWeights = [600, 600, 600, 600, 600, 600]
+metricValueFontSize = "1.55rem"
+metricValueFontWeight = 500
+blueColor = "#6fa8dc"
+dataframeBorderColor = "#262c36"
+dataframeHeaderBackgroundColor = "#161b22"
+
+[theme.sidebar]
+backgroundColor = "#090c10"
+secondaryBackgroundColor = "#161b22"
+borderColor = "#262c36"
